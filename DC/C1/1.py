@@ -6,7 +6,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, median_abso
 import matplotlib.pyplot as plt
 
 # Bước 1: Đọc dữ liệu từ file Abalone.data vào một DataFrame
-df=pd.read_csv('E:\\DC\\C1\\Bank_Personal_Loan_Modelling.csv')
+df=pd.read_csv('E:\\Tien_Tien\\DC\\C1\\Bank_Personal_Loan_Modelling.csv')
 df.drop(['ID'], axis=1, inplace=True) # bỏ cột ID
 # Bước 2: Chuẩn bị dữ liệu cho việc uấn luyện mô hình
 X = df[['Experience', 'Income', 'ZIP Code', 'Family', 'CCAvg', 'Education', 'Mortgage', 'Personal Loan', 'Securities Account', 'CD Account', 'Online', 'CreditCard']]  # Đặc trưng
