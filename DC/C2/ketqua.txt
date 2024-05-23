@@ -1,0 +1,8 @@
+Nhà trên 30 tuổi mà có giá lơn hơn 50: 10
+Nhà có giá dưới 30 mà cách ga tàu 1km: 0
+
+Bảng tóm tắt:
+      X2 house age  X3 distance to the nearest MRT station  X4 number of convenience stores  Y house price of unit area
+Min        0.00000                               23.382840                         0.000000                    7.600000
+Max       43.80000                             6488.021000                        10.000000                  117.500000
+Mean      17.71256                             1083.885689                         4.094203                   37.980193

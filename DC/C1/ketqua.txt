@@ -1,0 +1,8 @@
+Số người dưới 30 tuổi mà có thu nhập trên 50000k $: 320
+Số người dưới 30 tuổi mà có kinh nghiệm trên 5 năm: 0
+
+Bảng tóm tắt:
+          Age  Experience    Income
+Min   23.0000     -3.0000    8.0000
+Max   67.0000     43.0000  224.0000
+Mean  45.3384     20.1046   73.7742
